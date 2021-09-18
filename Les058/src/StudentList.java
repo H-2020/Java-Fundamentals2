@@ -1,5 +1,3 @@
-package be.intecbrussel.students.hilal.les058;
-
 public class StudentList {
 
     // CLASS LEVEL VARIABLES
