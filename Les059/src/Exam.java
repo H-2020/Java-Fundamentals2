@@ -1,5 +1,3 @@
-package be.intecbrussel.students.hilal.les059;
-
 public class Exam {
     // [] -> many ...
     String[] questions = new String[0];
