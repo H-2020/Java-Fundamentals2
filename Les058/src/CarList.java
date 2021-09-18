@@ -1,5 +1,3 @@
-package be.intecbrussel.students.hilal.les058;
-
 public class CarList {
     // CLASS LEVEL VARIABLES
     String[] cars = {
