@@ -1,5 +1,3 @@
-import be.intecbrussel.students.hilal.les062.Rectangle;
-
 public class RectangleApp {
 
     public static void main(String[] args) {
