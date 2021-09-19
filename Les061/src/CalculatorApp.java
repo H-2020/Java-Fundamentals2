@@ -1,5 +1,3 @@
-package be.intecbrussel.students.hilal.less061;
-
 public class CalculatorApp {
 
     public static void main(String[] args) {
