@@ -1,5 +1,3 @@
-package be.intecbrussel.students.hilal.less061;
-
 class HelloWorlder {
 
     int id=5;
