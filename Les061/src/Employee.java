@@ -1,5 +1,3 @@
-package be.intecbrussel.students.hilal.less061;
-
  class Employee {
     int id;
     String fName;
