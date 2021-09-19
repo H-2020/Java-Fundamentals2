@@ -1,5 +1,3 @@
-package be.intecbrussel.students.hilal.les062;
-
 import be.intecbrussel.students.hilal.les062.Rectangle;
 
 public class RectangleApp {
