@@ -1,5 +1,3 @@
-package be.intecbrussel.students.hilal.less061;
-
 public class Calculator {
     double number1;
     double number2;
