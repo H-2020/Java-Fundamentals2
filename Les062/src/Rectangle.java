@@ -1,5 +1,3 @@
-package be.intecbrussel.students.hilal.les062;
-
 public class Rectangle {
 
     public int x;
