@@ -1,5 +1,3 @@
-package be.intecbrussel.students.hilal.les062;
-
 public class RectangleAppV2 {
     public static void main(String[] args) {
 
